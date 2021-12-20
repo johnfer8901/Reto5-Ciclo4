@@ -1,0 +1,54 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-Reto2Application<reto2>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "co.usa.reto2.Reto2Application",
+            "projectName": "reto2",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-Reto2Application<reto2>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "co.usa.reto3.Reto2Application",
+            "projectName": "reto2",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-Reto3Application<reto2>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "co.usa.reto3.Reto3Application",
+            "projectName": "reto2",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-Reto4Application<reto3>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "co.usa.reto4.Reto4Application",
+            "projectName": "reto3",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-Reto5Application<reto4>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "co.usa.reto5.Reto5Application",
+            "projectName": "reto4",
+            "args": ""
+        }
+    ]
+}
